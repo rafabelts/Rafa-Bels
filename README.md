@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Rafa Beltran
+- 👀 I’m interested in learning machine learning, AI, etc.
+- 🌱 I’m currently learning python
+- 📫 How to reach me on my email - rafabeltrans17@gmail.com
